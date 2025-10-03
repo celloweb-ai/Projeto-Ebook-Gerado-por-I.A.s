@@ -51,7 +51,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como PowerPoint, LibreOffice ou InDesign para diagramação.
+Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei ferramentas de edição de documentos como PowerPoint e Word para diagramação.
 
 ## 👨‍💻 Expert
 
