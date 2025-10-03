@@ -60,7 +60,7 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
       align="left" 
       margin="10" 
       width="80" 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://github.com/celloweb-ai/Projeto-Ebook-Gerado-por-I.A.s/blob/main/assets/foto.jpg"
     />
     <p>&nbsp;&nbsp;&nbsp;Marcus Vasconcellos<br>
     &nbsp;&nbsp;&nbsp;
