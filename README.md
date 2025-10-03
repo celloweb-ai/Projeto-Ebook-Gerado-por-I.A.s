@@ -11,7 +11,7 @@
 <p align="center">
 <img 
     src="https://github.com/celloweb-ai/Projeto-Ebook-Gerado-por-I.A.s/blob/main/assets/ebook.png"
-    width="200"  
+    width="250"  
 />
 </p>
 
