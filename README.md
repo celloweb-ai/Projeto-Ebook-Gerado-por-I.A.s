@@ -37,16 +37,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 ### ChatGPT/Gemini/Copilot：
 
-| Ação     | Prompt                                                                                                                                                                                                                                                                         |
-|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Título   | Crie um título de um ebook sobre o tema das aplicações cotidianas da inteligência artificial, o ebook é do nicho do público em geral e o subnicho é de "geeks", o título deve ser épico e curto, e tenha uma temática envolvente no título, me liste 5 variações de títulos                                                        |
-| Conteúdo | Faça um texto para ebook, com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico |
-
-### Midjourney：
-
-| Ação  | Prompt                                                                                 |
-|-------|----------------------------------------------------------------------------------------|
-| Título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+- [Projeto e Prompts](https://github.com/celloweb-ai/Projeto-Ebook-Gerado-por-I.A.s/blob/main/output/Project)
 
 ## ✨ Features
 
