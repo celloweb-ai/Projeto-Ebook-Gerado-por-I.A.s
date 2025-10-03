@@ -18,7 +18,7 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
+> ℹ️ **NOTA:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
