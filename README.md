@@ -18,7 +18,7 @@
 
 # Projeto EBOOK Gerado por I.A.s
 
-> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
@@ -26,9 +26,11 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
+- [ChatGPT](https://chat.openai.com/)
+- [Gemini](https://gemini.google.com/)
 - [MidJourney](https://www.midjourney.com/app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Word](https://www.microsoft.com/en/microsoft-365/word)
 
 ## 🧠 Prompts
 
