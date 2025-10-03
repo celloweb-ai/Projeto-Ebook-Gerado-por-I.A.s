@@ -37,7 +37,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 ### ChatGPT/Gemini/Copilot：
 
-- [Projeto e Prompts](https://github.com/celloweb-ai/Projeto-Ebook-Gerado-por-I.A.s/blob/main/output/Project)
+- [Projeto e Prompts](https://github.com/celloweb-ai/Projeto-Ebook-Gerado-por-I.A.s/tree/main/output)
 
 ## ✨ Features
 
